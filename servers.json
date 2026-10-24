@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Drive Russia #1",
+    "ip": "94.250.252.119",
+    "port": 7777,
+    "action": "x2",
+    "action2": "",
+    "action3": "",
+    "action4": "",
+    "color": "#FF0000",
+    "new_server": false,
+    "test_server": false,
+    "online": 0
+  }
+]
